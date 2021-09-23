@@ -1,0 +1,309 @@
+{
+  "name": "Fluent Default List",
+  "timestamp": "2021-09-13T09:38:47.000Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/browser-extension/images/icon-128.png",
+  "keywords": [
+    "fluent",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 1029,
+      "address": "cfx:acdrf821t59y12b4guyzckyuw2xf1gfpj2ba0x4sj6",
+      "name": "conflux ETH",
+      "symbol": "cETH",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacdrf821t59y12b4guyzckyuw2xf1gfpj2ba0x4sj6.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:achc8nxj7r451c223m18w2dwjnmhkd6rxawrvkvsy2",
+      "name": "FansCoin",
+      "symbol": "FC",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aachc8nxj7r451c223m18w2dwjnmhkd6rxawrvkvsy2.svg"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:achcuvuasx3t8zcumtwuf35y51sksewvca0h0hj71a",
+      "name": "conflux MOON",
+      "symbol": "cMOON",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aachcuvuasx3t8zcumtwuf35y51sksewvca0h0hj71a.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acgbjtsmfpex2mbn97dsygtkfrt952sp0psmh8pnvz",
+      "name": "conflux Flux Protocol",
+      "symbol": "cFLUX",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacgbjtsmfpex2mbn97dsygtkfrt952sp0psmh8pnvz.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acc8599utu7nayj50w393eycznhv4e23g2ys6xmvf5",
+      "name": "conflux Ins3.Finance Coin",
+      "symbol": "cITF",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacc8599utu7nayj50w393eycznhv4e23g2ys6xmvf5.jpg"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx",
+      "name": "Wrapped Conflux",
+      "symbol": "WCFX",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx.svg"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acf2rcsh8payyxpg6xj7b0ztswwh81ute60tsw35j7",
+      "name": "conflux USDT",
+      "symbol": "cUSDT",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacf2rcsh8payyxpg6xj7b0ztswwh81ute60tsw35j7.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acekx06rp1bcdkup1ubr2vw77tsrw81ysy0d3n7x5s",
+      "name": "conflux DPI",
+      "symbol": "cDPI",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacekx06rp1bcdkup1ubr2vw77tsrw81ysy0d3n7x5s.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acbb225r9wc7a2kt1dz9gw0tuv5v1kgdjuh5akdh3t",
+      "name": "conflux BTC",
+      "symbol": "cBTC",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacbb225r9wc7a2kt1dz9gw0tuv5v1kgdjuh5akdh3t.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acaucwuza1nm7wfj1bwkjttz7b0eh4ak7ur7fue1dy",
+      "name": "Anicent Chinese God YAO",
+      "symbol": "YAO",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacaucwuza1nm7wfj1bwkjttz7b0eh4ak7ur7fue1dy.jpeg"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acc8ya1f2a2bfphxg5ax7a8h29k47d5xsebxfj24nd",
+      "name": "PoolGo",
+      "symbol": "POOLGO",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacc8ya1f2a2bfphxg5ax7a8h29k47d5xsebxfj24nd.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acdkyd8tmezzs6cvmfwtpkg7y9k8cnhdapfcganwt9",
+      "name": "conflux AMP",
+      "symbol": "cAMP",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacdkyd8tmezzs6cvmfwtpkg7y9k8cnhdapfcganwt9.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:aca13suyk7mbgxw9y3wbjn9vd136swu6s21tg67xmb",
+      "name": "conflux USDC",
+      "symbol": "cUSDC",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aaca13suyk7mbgxw9y3wbjn9vd136swu6s21tg67xmb.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:accedvremfhmym60f9u4nghb8utxcgbtb2acewunwh",
+      "name": "conflux COMP",
+      "symbol": "cCOMP",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aaccedvremfhmym60f9u4nghb8utxcgbtb2acewunwh.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acb9wkgbefcja9rkpds5ve4cm5643jmebae7xjzz8f",
+      "name": "Treasure ERC 20",
+      "symbol": "TREA",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacb9wkgbefcja9rkpds5ve4cm5643jmebae7xjzz8f.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acd3fhs4u0yzx7kpzrujhj15yg63st2z6athmtka95",
+      "name": "conflux DAI",
+      "symbol": "cDAI",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacd3fhs4u0yzx7kpzrujhj15yg63st2z6athmtka95.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:accuj4mt4kmnhzr1b3xe653n63694tc0cjuzkj5t94",
+      "name": "conflux LINK",
+      "symbol": "cLINK",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aaccuj4mt4kmnhzr1b3xe653n63694tc0cjuzkj5t94.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acbyc3ahvctpx5cabfw6n1s9fv40trur6ydbu1zr4x",
+      "name": "conflux BAND",
+      "symbol": "cBAND",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacbyc3ahvctpx5cabfw6n1s9fv40trur6ydbu1zr4x.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:accxdrf7c3vntwyyhj8ws8mcatd433k8sjvrjbx39r",
+      "name": "conflux YFII",
+      "symbol": "cYFII",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aaccxdrf7c3vntwyyhj8ws8mcatd433k8sjvrjbx39r.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acff13n54n4t02cy6uc8xfdxrf4enanr5jh6vy761g",
+      "name": "conflux LEND",
+      "symbol": "cLEND",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacff13n54n4t02cy6uc8xfdxrf4enanr5jh6vy761g.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acczy0zs2fu03pnx0w1u19pkprsm6r50spkz7eg4c3",
+      "name": "conflux Binance Coin",
+      "symbol": "cBNB",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacczy0zs2fu03pnx0w1u19pkprsm6r50spkz7eg4c3.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acc3hzr7e570ccnrb91wgufwcs6a171jvuax68krfm",
+      "name": "conflux DF",
+      "symbol": "cDF",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacc3hzr7e570ccnrb91wgufwcs6a171jvuax68krfm.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acdkf73rh2ewwm3hbwddd00wy3v3fyau3ew61jbrbj",
+      "name": "conflux SWRV",
+      "symbol": "cSWRV",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacdkf73rh2ewwm3hbwddd00wy3v3fyau3ew61jbrbj.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acbgx6fr4erywfs1u8jysdjkdyw697386ykw31nddj",
+      "name": "CRCL_BTC",
+      "symbol": "CRCL_BTC_symbol",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacbgx6fr4erywfs1u8jysdjkdyw697386ykw31nddj.svg"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acbvymbs1ck1gve4yzubavvj7my5h7b8yutaagrsrx",
+      "name": "conflux OKExChain Coin",
+      "symbol": "cOKT",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacbvymbs1ck1gve4yzubavvj7my5h7b8yutaagrsrx.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acfezfepc4wuxj2fmfya1w9kwjutk7wtaudbz0k6dj",
+      "name": "conflux YFI",
+      "symbol": "cYFI",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacfezfepc4wuxj2fmfya1w9kwjutk7wtaudbz0k6dj.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acc1uh4ftd4jhser99uk8nk8unkbz8ykmyxt0n27v5",
+      "name": "conflux FOR",
+      "symbol": "cFOR",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacc1uh4ftd4jhser99uk8nk8unkbz8ykmyxt0n27v5.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acdcap62vh2km00y4fh117ngz8jauj19g618km65m6",
+      "name": "conflux KP3R",
+      "symbol": "cKP3R",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacdcap62vh2km00y4fh117ngz8jauj19g618km65m6.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:ach3cmt7wze9tkhxctkdzfsaf0azcppgvpfwfdzmku",
+      "name": "conflux UMA",
+      "symbol": "cUMA",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aach3cmt7wze9tkhxctkdzfsaf0azcppgvpfwfdzmku.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acamc98zc1a93ap8u9xaruc2kefpd6mpy6089w6yv0",
+      "name": "conflux KNC",
+      "symbol": "cKNC",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacamc98zc1a93ap8u9xaruc2kefpd6mpy6089w6yv0.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acg797d4c6v007y46hj1juk7z0ac86m04uc13n4bcg",
+      "name": "conflux SNX",
+      "symbol": "cSNX",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacg797d4c6v007y46hj1juk7z0ac86m04uc13n4bcg.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:achj7swfxkg634hcvg70ttywtgyn2w619jxscmjdp3",
+      "name": "conflux sUSD",
+      "symbol": "csUSD",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aachj7swfxkg634hcvg70ttywtgyn2w619jxscmjdp3.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:ace09320r53kxk8tx07wz1mx5dwhcaumk2etx52tt6",
+      "name": "conflux HBTC",
+      "symbol": "cHBTC",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aace09320r53kxk8tx07wz1mx5dwhcaumk2etx52tt6.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acdz7hfvku8fm0j8k065urs2n59k0e33npbjtyp2bv",
+      "name": "conflux Bytom minted",
+      "symbol": "cMBTM",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacdz7hfvku8fm0j8k065urs2n59k0e33npbjtyp2bv.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:achgfs1uu8drfvy8ju05grkwgct9pfdckym9pc15dc",
+      "name": "ART-Token",
+      "symbol": "ARTT",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aachgfs1uu8drfvy8ju05grkwgct9pfdckym9pc15dc.icon"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acbyzcbfpymaz43rr6s1gtx0fb08guj88uzc05rchf",
+      "name": "Dan",
+      "symbol": "DAN",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacbyzcbfpymaz43rr6s1gtx0fb08guj88uzc05rchf.png"
+    }
+  ],
+  "extra": {
+    "timestamp": 1631525927,
+    "utc_time": "2021-09-13T09:38:47+00:00"
+  }
+}
