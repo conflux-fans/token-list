@@ -267,7 +267,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+      "logoURI": "https://gemini.com/images/currencies/icons/default/uni.svg"
     },
     {
       "name": "USDCoin",
@@ -331,7 +331,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/uni.svg"
     },
     {
       "name": "Wrapped Ether",
@@ -363,7 +363,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 4,
-      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/uni.svg"
     },
     {
       "name": "Wrapped Ether",
@@ -379,7 +379,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 5,
-      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/uni.svg"
     },
     {
       "name": "Wrapped Ether",
@@ -411,7 +411,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 42,
-      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+      "logoURI": "https://www.gemini.com/images/currencies/icons/default/uni.svg"
     },
     {
       "name": "Wrapped Ether",

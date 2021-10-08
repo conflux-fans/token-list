@@ -293,9 +293,5 @@
       "decimals": 18,
       "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacbyzcbfpymaz43rr6s1gtx0fb08guj88uzc05rchf.png"
     }
-  ],
-  "extra": {
-    "timestamp": 1631525927,
-    "utc_time": "2021-09-13T09:38:47+00:00"
-  }
+  ]
 }
