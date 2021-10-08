@@ -199,14 +199,6 @@
     },
     {
       "chainId": 1029,
-      "address": "cfx:acbgx6fr4erywfs1u8jysdjkdyw697386ykw31nddj",
-      "name": "CRCL_BTC",
-      "symbol": "CRCL_BTC_symbol",
-      "decimals": 18,
-      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacbgx6fr4erywfs1u8jysdjkdyw697386ykw31nddj.svg"
-    },
-    {
-      "chainId": 1029,
       "address": "cfx:acbvymbs1ck1gve4yzubavvj7my5h7b8yutaagrsrx",
       "name": "conflux OKExChain Coin",
       "symbol": "cOKT",
