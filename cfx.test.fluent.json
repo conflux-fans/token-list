@@ -1,0 +1,47 @@
+{
+  "name": "Fluent Default Conflux Testnet List",
+  "timestamp": "2021-09-13T09:38:47.000Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/browser-extension/images/icon-128.png",
+  "keywords": [
+    "fluent",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "cfxtest:acfn6k3kv2ecx5tmd95nm675pm7x6wuxxpsz5ch518",
+      "name": "conflux USDT",
+      "symbol": "cUSDT",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/testnet/cfxtest%3Aacepe88unk7fvs18436178up33hb4zkuf62a9dk1gv.png"
+    },
+    {
+      "chainId": 1,
+      "address": "cfxtest:achkx35n7vngfxgrm7akemk3ftzy47t61yk5nn270s",
+      "name": "FansCoin",
+      "symbol": "FC",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/testnet/cfxtest%3Aachkx35n7vngfxgrm7akemk3ftzy47t61yk5nn270s.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "cfxtest:achde4ppjn11tntcd1dcynhze9puwfc73en8mnvzvg",
+      "name": "Wrapped Conflux",
+      "symbol": "WCFX",
+      "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "cfxtest:acceftennya582450e1g227dthfvp8zz1p370pvb6r",
+      "name": "conflux ETH",
+      "symbol": "cETH",
+      "decimals": 18
+    }
+  ]
+}
