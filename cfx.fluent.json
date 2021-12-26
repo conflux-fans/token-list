@@ -1,10 +1,10 @@
 {
   "name": "Fluent Default List",
-  "timestamp": "2021-09-13T09:38:47.000Z",
+  "timestamp": "2021-12-26T02:37:32.143Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/browser-extension/images/icon-128.png",
@@ -292,6 +292,30 @@
       "symbol": "DAN",
       "decimals": 18,
       "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacbyzcbfpymaz43rr6s1gtx0fb08guj88uzc05rchf.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acg8dy0xvpyzh1f8n9e9gcf3mm7se1ts5y979mawtf",
+      "name": "TriAngle DAO",
+      "symbol": "TAD",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacg8dy0xvpyzh1f8n9e9gcf3mm7se1ts5y979mawtf.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acav5v98np8t3m66uw7x61yer1ja1jm0dpzj1zyzxv",
+      "name": "Points",
+      "symbol": "POS",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacav5v98np8t3m66uw7x61yer1ja1jm0dpzj1zyzxv.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acb7y2ywyyyxc8gtp0zmn80rdrfbbkxz923wm2zfhn",
+      "name": "AUSD Stablecoin",
+      "symbol": "AUSD",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacb7y2ywyyyxc8gtp0zmn80rdrfbbkxz923wm2zfhn.png"
     }
   ]
 }
