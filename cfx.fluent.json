@@ -1,17 +1,14 @@
 {
   "name": "Fluent Default List",
-  "timestamp": "2021-12-26T02:37:32.143Z",
+  "timestamp": "2022-04-08T01:47:57.745Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/browser-extension/images/icon-128.png",
-  "keywords": [
-    "fluent",
-    "default"
-  ],
+  "keywords": ["fluent", "default"],
   "tokens": [
     {
       "chainId": 1029,
@@ -82,6 +79,14 @@
       "address": "cfx:acbb225r9wc7a2kt1dz9gw0tuv5v1kgdjuh5akdh3t",
       "name": "conflux BTC",
       "symbol": "cBTC",
+      "decimals": 18,
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacbb225r9wc7a2kt1dz9gw0tuv5v1kgdjuh5akdh3t.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acg7z3y6x8pzem2v6pnyxuysn78pvgu3jjhzaatpy5",
+      "name": "conflux WBTC",
+      "symbol": "cWBTC",
       "decimals": 18,
       "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacbb225r9wc7a2kt1dz9gw0tuv5v1kgdjuh5akdh3t.png"
     },
