@@ -1,10 +1,10 @@
 {
   "name": "Fluent Default List",
-  "timestamp": "2022-04-08T01:47:57.745Z",
+  "timestamp": "2022-04-12T02:34:02.138Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/browser-extension/images/icon-128.png",
@@ -288,7 +288,7 @@
       "name": "ART-Token",
       "symbol": "ARTT",
       "decimals": 18,
-      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aachgfs1uu8drfvy8ju05grkwgct9pfdckym9pc15dc.icon"
+      "logoURI": "http://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aachgfs1uu8drfvy8ju05grkwgct9pfdckym9pc15dc.png"
     },
     {
       "chainId": 1029,
