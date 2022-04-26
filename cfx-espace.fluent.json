@@ -1,10 +1,10 @@
 {
   "name": "Fluent Default Conflux Espace List",
-  "timestamp": "2022-04-25T10:00:58.380Z",
+  "timestamp": "2022-04-26T09:17:12.197Z",
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/browser-extension/images/icon-128.png",
