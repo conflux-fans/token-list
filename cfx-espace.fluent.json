@@ -15,42 +15,48 @@
       "address": "0x94bd7a37d2ce24cc597e158facaa8d601083ffec",
       "name": "BNB",
       "symbol": "BNB",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacmn48v14nhckxc3t2m29nfmvzubba997uzzd16p6d.png"
     },
     {
       "chainId": 1030,
       "address": "0xa47f43de2f9623acb395ca4905746496d2014d57",
       "name": "Ethereum Token",
       "symbol": "ETH",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacwh8u88f8nchnfxw1fewbnypwnreamrm6ez17ucze.png"
     },
     {
       "chainId": 1030,
       "address": "0x22f41abf77905f50df398f21213290597e7414dd",
       "name": "Swappi Token",
       "symbol": "PPI",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaavtjgz9s8jf8yg9hghwcjkwwbp167ay5ynubph265.png"
     },
     {
       "chainId": 1030,
       "address": "0x6963efed0ab40f6c3d7bda44a05dcf1437c44372",
       "name": "USD Coin",
       "symbol": "USDC",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaby0h59rbm4a85b7ttrekjc736mdtvcdsjy17ezbn3.png"
     },
     {
       "chainId": 1030,
       "address": "0xfe97e85d13abd9c1c33384e796f10b73905637ce",
       "name": "Tether USD",
       "symbol": "USDT",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aad9kt4c7csz7xusdgscstf1vbr33azv132611febg1.png"
     },
     {
       "chainId": 1030,
       "address": "0x1f545487c62e5acfea45dcadd9c627361d1616d8",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaatzjzeh221fzx9mj1sm50sge65b4fu05azsr51n8p.png"
     }
   ]
 }
