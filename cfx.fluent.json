@@ -1,10 +1,10 @@
 {
   "name": "Fluent Default List",
-  "timestamp": "2022-04-12T02:34:02.138Z",
+  "timestamp": "2022-07-28T06:24:04.804Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/browser-extension/images/icon-128.png",
