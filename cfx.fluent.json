@@ -292,6 +292,14 @@
     },
     {
       "chainId": 1029,
+      "address": "cfx:acb7n6zn91w02mtmx0gkxetf67447wkxy6bekrsz67",
+      "name": "A-CFX",
+      "symbol": "ACFX",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacb7n6zn91w02mtmx0gkxetf67447wkxy6bekrsz67.png"
+    },
+    {
+      "chainId": 1029,
       "address": "cfx:acbyzcbfpymaz43rr6s1gtx0fb08guj88uzc05rchf",
       "name": "Dan",
       "symbol": "DAN",
