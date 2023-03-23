@@ -1,10 +1,10 @@
 {
   "name": "Fluent Default Conflux Espace List",
-  "timestamp": "2022-04-26T09:17:12.197Z",
+  "timestamp": "2023-03-23T06:27:18.892Z",
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/browser-extension/images/icon-128.png",
@@ -57,6 +57,22 @@
       "symbol": "WBTC",
       "decimals": 18,
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaatzjzeh221fzx9mj1sm50sge65b4fu05azsr51n8p.png"
+    },
+    {
+      "chainId": 1030,
+      "address": "0xfe197e7968807b311d476915db585831b43a7e3b",
+      "name": "Nucleon Governance Token",
+      "symbol": "NUT",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aad9bw9x3rcah0pj7j7yvn042na25jsx8hpf19ma3zp.png"
+    },
+    {
+      "chainId": 1030,
+      "address": "0xa4b59aa3de2af57959c23e2c9c89a2fcb408ce6a",
+      "name": "Goledo Token",
+      "symbol": "GOL",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacwnngzd52ztm8m32j9c3hekyn8njcgsrjg4p7yzea.png"
     }
   ]
 }
