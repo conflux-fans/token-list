@@ -73,6 +73,14 @@
       "symbol": "GOL",
       "decimals": 18,
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacwnngzd52ztm8m32j9c3hekyn8njcgsrjg4p7yzea.png"
+    },
+    {
+      "chainId": 1030,
+      "address": "0x905f2202003453006eaf975699545f2e909079b8",
+      "name": "ABC PoS Pool Token",
+      "symbol": "ABC",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacjf8jucaa4fgadsz8nzrgmyn61kbed31af2ze2rrv.png"
     }
   ]
 }
