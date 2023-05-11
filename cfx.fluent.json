@@ -329,6 +329,14 @@
       "symbol": "AUSD",
       "decimals": 18,
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacb7y2ywyyyxc8gtp0zmn80rdrfbbkxz923wm2zfhn.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acb78besxg2tnxs1ccca45g2fm412mdpr6b0ve6wtc",
+      "name": "ABC PoS Pool",
+      "symbol": "ABC",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacjf8jucaa4fgadsz8nzrgmyn61kbed31af2ze2rrv.png"
     }
   ]
 }
