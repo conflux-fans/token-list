@@ -60,6 +60,6 @@ coingecko token URL: https://www.coingecko.com/en/coins/ethereum
 ## How To Submit PR
 * Add the Token Info to the `tokens` property.
 * Follow the [Semantic versioning](https://github.com/conflux-fans/token-list#semantic-versioning) to modify the `version`.
-* Modify the `timestamp` property.
+* Modify the `timestamp` property(Get the ISO format timestamp on this [website](https://greenwichmeantime.com/articles/clocks/iso/)).
   
 After the PR was accepted, JSDELIVR takes 12 hours and up to 7 days to update the global CDN. 
