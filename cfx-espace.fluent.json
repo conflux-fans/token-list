@@ -81,6 +81,14 @@
       "symbol": "ABC",
       "decimals": 18,
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacjf8jucaa4fgadsz8nzrgmyn61kbed31af2ze2rrv.png"
+    },
+    {
+      "chainId": 1030,
+      "address": "0xb747a3317259e0aafe5a242c8e3f042a4b83627a",
+      "name": "CFXs ERC20",
+      "symbol": "CFXs",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/0xb747a3317259e0aafe5a242c8e3f042a4b83627a.png"
     }
   ]
 }
