@@ -1,10 +1,10 @@
 {
   "name": "Fluent Default Conflux Espace List",
-  "timestamp": "2025-09-10T09:51:27.372Z",
+  "timestamp": "2025-09-11T05:57:39.146Z",
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/browser-extension/images/icon-128.png",
@@ -87,7 +87,7 @@
       "address": "0x70bfd7f7eadf9b9827541272589a6b2bb760ae2e",
       "name": "AxCNH",
       "symbol": "AxCNH",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x70bfd7f7eadf9b9827541272589a6b2bb760ae2e.jpeg"
     }
   ]
