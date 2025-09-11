@@ -16,7 +16,7 @@
       "name": "BNB",
       "symbol": "BNB",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacmn48v14nhckxc3t2m29nfmvzubba997uzzd16p6d.png"
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x94bd7a37d2ce24cc597e158facaa8d601083ffec.png"
     },
     {
       "chainId": 1030,
@@ -24,7 +24,7 @@
       "name": "Ethereum Token",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacwh8u88f8nchnfxw1fewbnypwnreamrm6ez17ucze.png"
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0xa47f43de2f9623acb395ca4905746496d2014d57.png"
     },
     {
       "chainId": 1030,
@@ -32,7 +32,7 @@
       "name": "Swappi Token",
       "symbol": "PPI",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaavtjgz9s8jf8yg9hghwcjkwwbp167ay5ynubph265.png"
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x22f41abf77905f50df398f21213290597e7414dd.png"
     },
     {
       "chainId": 1030,
@@ -40,7 +40,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaby0h59rbm4a85b7ttrekjc736mdtvcdsjy17ezbn3.png"
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x6963efed0ab40f6c3d7bda44a05dcf1437c44372.png"
     },
     {
       "chainId": 1030,
@@ -48,7 +48,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aad9kt4c7csz7xusdgscstf1vbr33azv132611febg1.png"
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0xfe97e85d13abd9c1c33384e796f10b73905637ce.png"
     },
     {
       "chainId": 1030,
@@ -56,7 +56,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaatzjzeh221fzx9mj1sm50sge65b4fu05azsr51n8p.png"
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x1f545487c62e5acfea45dcadd9c627361d1616d8.png"
     },
     {
       "chainId": 1030,
@@ -64,15 +64,7 @@
       "name": "Nucleon Governance Token",
       "symbol": "NUT",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aad9bw9x3rcah0pj7j7yvn042na25jsx8hpf19ma3zp.png"
-    },
-    {
-      "chainId": 1030,
-      "address": "0xa4b59aa3de2af57959c23e2c9c89a2fcb408ce6a",
-      "name": "Goledo Token",
-      "symbol": "GOL",
-      "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacwnngzd52ztm8m32j9c3hekyn8njcgsrjg4p7yzea.png"
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0xfe197e7968807b311d476915db585831b43a7e3b.png"
     },
     {
       "chainId": 1030,
@@ -80,7 +72,7 @@
       "name": "ABC PoS Pool Token",
       "symbol": "ABC",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacjf8jucaa4fgadsz8nzrgmyn61kbed31af2ze2rrv.png"
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x905f2202003453006eaf975699545f2e909079b8.png"
     },
     {
       "chainId": 1030,
