@@ -1,9 +1,9 @@
 {
   "name": "Fluent Default Conflux Espace List",
-  "timestamp": "2025-09-11T05:57:39.146Z",
+  "timestamp": "2025-11-20T05:57:39.146Z",
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 5
   },
   "tags": {},
@@ -49,6 +49,14 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0xfe97e85d13abd9c1c33384e796f10b73905637ce.png"
+    },
+    {
+      "chainId": 1030,
+      "address": "0xaf37e8b6c9ed7f6318979f56fc287d76c30847ff",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0xaf37e8b6c9ed7f6318979f56fc287d76c30847ff.png"
     },
     {
       "chainId": 1030,
