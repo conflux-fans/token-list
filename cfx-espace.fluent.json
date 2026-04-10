@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 4,
-    "patch": 5
+    "patch": 6
   },
   "tags": {},
   "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/browser-extension/images/icon-128.png",
@@ -105,6 +105,14 @@
       "symbol": "cfxA7A5",
       "decimals": 6,
       "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x22179d83c3bb949ec2382d886f68945d89d6582f.png"
+    },
+    {
+      "chainId": 1030,
+      "address": "0xacc6efbe554397b741baadecf0120780b858f5f4",
+      "name": "XAUt0",
+      "symbol": "XAUt0",
+      "decimals": 6,
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0xacc6efbe554397b741baadecf0120780b858f5f4.png"
     }
   ]
 }
