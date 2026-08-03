@@ -1,0 +1,42 @@
+{
+  "name": "eSpace Testnet",
+  "timestamp": "2026-08-03T15:42:37.603Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/browser-extension/images/icon-128.png",
+  "keywords": ["fluent", "default"],
+  "tokens": [
+    {
+      "chainId": 71,
+      "address": "0x05D714465e24B7639a31eeB57D37396F889Df725",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6
+    },
+    {
+      "chainId": 71,
+      "address": "0x7d682e65EFC5C13Bf4E394B8f376C48e6baE0355",
+      "name": "Faucet USDT",
+      "symbol": "USDT",
+      "decimals": 18
+    },
+    {
+      "chainId": 71,
+      "address": "0xcc980c6f5010bca11fa1e3ec9ade8ce07ec13a00",
+      "name": "AxCNH0",
+      "symbol": "AxCNH0",
+      "decimals": 18
+    },
+    {
+      "chainId": 71,
+      "address": "0x349298b0e20df67defd6efb8f3170cf4a32722ef",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18
+    }
+  ]
+}
